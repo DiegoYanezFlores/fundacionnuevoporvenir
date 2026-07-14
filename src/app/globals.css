@@ -1,0 +1,33 @@
+/* Bootstrap */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Variables de la Fundación */
+:root {
+  --primary: #00695c;
+  --secondary: #2e7d32;
+  --accent: #f9a825;
+  --background: #ffffff;
+  --text: #212529;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: var(--font-geist-sans), Arial, sans-serif;
+}
+
+/* Enlaces */
+a {
+  text-decoration: none;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+}
