@@ -1,0 +1,69 @@
+[
+  {
+    "id": "desarrollo-territorial",
+    "slug": "desarrollo-territorial-rural-intercultural",
+    "order": 1,
+    "title": "Desarrollo Territorial, Rural e Intercultural",
+    "icon": "map",
+    "summary": "Fortalecimiento de comunidades y economías locales con enfoque intercultural y sostenible.",
+    "description": "Acompañamos a comunidades rurales e indígenas en su desarrollo integral, articulando saberes ancestrales con herramientas contemporáneas de gestión territorial.",
+    "focusAreas": [
+      "Fortalecimiento comunitario",
+      "Desarrollo económico local",
+      "Seguridad alimentaria",
+      "Emprendimientos rurales",
+      "Gestión sostenible del territorio",
+      "Conservación de conocimientos ancestrales"
+    ]
+  },
+  {
+    "id": "educacion-tecnologia",
+    "slug": "educacion-tecnologia-innovacion",
+    "order": 2,
+    "title": "Educación, Tecnología e Innovación",
+    "icon": "cpu",
+    "summary": "Formación tecnológica, transformación digital y transferencia de conocimiento a las comunidades.",
+    "description": "Impulsamos capacidades digitales y tecnológicas en los territorios, acercando la innovación y la inteligencia artificial a las comunidades.",
+    "focusAreas": [
+      "Formación tecnológica",
+      "Transformación digital",
+      "Inteligencia Artificial",
+      "Desarrollo de software",
+      "Capacitación comunitaria",
+      "Transferencia de conocimiento"
+    ]
+  },
+  {
+    "id": "investigacion-aplicada",
+    "slug": "investigacion-aplicada-centros",
+    "order": 3,
+    "title": "Investigación Aplicada y Centros de Investigación",
+    "icon": "microscope",
+    "summary": "Centros, observatorios y estudios territoriales que generan evidencia para la acción.",
+    "description": "Desarrollamos investigación aplicada a través de centros y observatorios propios y aliados, produciendo estudios territoriales y publicaciones científicas.",
+    "focusAreas": [
+      "Centros de investigación propios o aliados",
+      "Observatorios",
+      "Estudios territoriales",
+      "Publicaciones científicas",
+      "Proyectos de innovación"
+    ]
+  },
+  {
+    "id": "conservacion-ambiental",
+    "slug": "conservacion-ambiental-bioeconomia",
+    "order": 4,
+    "title": "Conservación Ambiental y Bioeconomía",
+    "icon": "leaf",
+    "summary": "Biodiversidad, cambio climático, energías renovables y economía circular.",
+    "description": "Trabajamos por la conservación de la biodiversidad y la construcción de sistemas productivos sostenibles frente al cambio climático.",
+    "focusAreas": [
+      "Biodiversidad",
+      "Cambio climático",
+      "Restauración ambiental",
+      "Sistemas productivos sostenibles",
+      "Energías renovables",
+      "Economía circular"
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "services": [
+    {
+      "id": "formulacion-proyectos",
+      "slug": "diseno-formulacion-proyectos",
+      "title": "Diseño y formulación de proyectos",
+      "icon": "clipboard",
+      "summary": "Formulamos proyectos con enfoque territorial, técnico y de impacto.",
+      "description": "Placeholder. Acompañamos la estructuración de proyectos desde la idea hasta la propuesta financiable.",
+      "deliverables": ["Marco lógico", "Presupuesto", "Cronograma"]
+    },
+    {
+      "id": "investigacion-aplicada",
+      "slug": "investigacion-aplicada",
+      "title": "Investigación aplicada",
+      "icon": "microscope",
+      "summary": "Generamos evidencia para la toma de decisiones.",
+      "description": "Placeholder. Estudios y análisis aplicados a problemáticas concretas del territorio.",
+      "deliverables": ["Estudios", "Informes técnicos"]
+    },
+    {
+      "id": "diagnosticos-territoriales",
+      "slug": "diagnosticos-territoriales",
+      "title": "Diagnósticos territoriales",
+      "icon": "map",
+      "summary": "Caracterización integral de territorios y comunidades.",
+      "description": "Placeholder. Diagnósticos participativos con enfoque intercultural.",
+      "deliverables": ["Diagnóstico", "Cartografía social"]
+    },
+    {
+      "id": "desarrollo-tecnologico",
+      "slug": "desarrollo-tecnologico",
+      "title": "Desarrollo tecnológico",
+      "icon": "cpu",
+      "summary": "Soluciones tecnológicas a la medida de las organizaciones.",
+      "description": "Placeholder. Desarrollo de software, IA y herramientas digitales.",
+      "deliverables": ["Software", "Prototipos"]
+    },
+    {
+      "id": "sistemas-informacion",
+      "slug": "sistemas-de-informacion",
+      "title": "Sistemas de información",
+      "icon": "database",
+      "summary": "Plataformas de datos para la gestión del conocimiento.",
+      "description": "Placeholder. Diseño e implementación de sistemas de información.",
+      "deliverables": ["Plataforma", "Modelo de datos"]
+    },
+    {
+      "id": "estudios-comunitarios",
+      "slug": "estudios-comunitarios",
+      "title": "Estudios comunitarios",
+      "icon": "people",
+      "summary": "Investigación social junto a las comunidades.",
+      "description": "Placeholder. Estudios sociales con metodologías participativas.",
+      "deliverables": ["Informe", "Sistematización"]
+    },
+    {
+      "id": "innovacion-social",
+      "slug": "innovacion-social",
+      "title": "Innovación social",
+      "icon": "lightbulb",
+      "summary": "Diseño de soluciones a problemas sociales complejos.",
+      "description": "Placeholder. Facilitación de procesos de innovación social.",
+      "deliverables": ["Prototipos sociales", "Rutas de escalamiento"]
+    },
+    {
+      "id": "acompanamiento-organizaciones",
+      "slug": "acompanamiento-organizaciones",
+      "title": "Acompañamiento a organizaciones",
+      "icon": "handshake",
+      "summary": "Fortalecimiento de capacidades organizacionales.",
+      "description": "Placeholder. Asesoría y acompañamiento a organizaciones sociales.",
+      "deliverables": ["Plan de fortalecimiento", "Mentoría"]
+    }
+  ],
+  "partnershipTypes": [
+    {
+      "id": "cooperacion-internacional",
+      "title": "Cooperación internacional",
+      "icon": "globe",
+      "description": "Agencias y organismos de cooperación para el desarrollo."
+    },
+    {
+      "id": "convenios-universitarios",
+      "title": "Convenios universitarios",
+      "icon": "school",
+      "description": "Universidades y centros académicos para investigación y formación."
+    },
+    {
+      "id": "empresas-rse",
+      "title": "Empresas con responsabilidad social",
+      "icon": "building",
+      "description": "Empresas comprometidas con el impacto social y ambiental."
+    },
+    {
+      "id": "instituciones-publicas",
+      "title": "Instituciones públicas",
+      "icon": "bank",
+      "description": "Gobiernos locales y entidades del sector público."
+    },
+    {
+      "id": "organizaciones-sociales",
+      "title": "Organizaciones sociales",
+      "icon": "people",
+      "description": "Organizaciones de base y de la sociedad civil."
+    },
+    {
+      "id": "investigadores",
+      "title": "Investigadores",
+      "icon": "microscope",
+      "description": "Investigadores y expertos que quieran sumar conocimiento."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "proyecto-demo-1",
+    "slug": "fortalecimiento-comunitario-demo",
+    "name": "Fortalecimiento Comunitario (Ejemplo)",
+    "status": "completed",
+    "actionLineSlug": "desarrollo-territorial-rural-intercultural",
+    "summary": "Proyecto de ejemplo. Reemplazar con un proyecto real ejecutado por la Fundación.",
+    "description": "Descripción placeholder de un proyecto ejecutado. Aquí se detallará el contexto, la metodología y el trabajo realizado junto a las comunidades.",
+    "objectives": [
+      "Objetivo de ejemplo 1",
+      "Objetivo de ejemplo 2"
+    ],
+    "location": {
+      "country": "Ecuador",
+      "region": "Amazonía",
+      "community": "Comunidad de ejemplo"
+    },
+    "communities": ["Comunidad de ejemplo"],
+    "images": [],
+    "results": [
+      "Resultado de ejemplo 1",
+      "Resultado de ejemplo 2"
+    ],
+    "allies": [],
+    "startDate": "2023-01-01",
+    "endDate": "2023-12-31"
+  },
+  {
+    "id": "proyecto-demo-2",
+    "slug": "innovacion-digital-territorial-demo",
+    "name": "Innovación Digital Territorial (Ejemplo)",
+    "status": "in_progress",
+    "actionLineSlug": "educacion-tecnologia-innovacion",
+    "summary": "Proyecto de ejemplo en ejecución. Reemplazar con datos reales.",
+    "description": "Descripción placeholder de un proyecto en ejecución centrado en capacidades digitales.",
+    "objectives": ["Objetivo de ejemplo 1"],
+    "location": {
+      "country": "Ecuador",
+      "region": "Sierra"
+    },
+    "communities": [],
+    "images": [],
+    "results": [],
+    "allies": [],
+    "startDate": "2025-01-01"
+  },
+  {
+    "id": "proyecto-demo-3",
+    "slug": "observatorio-ambiental-demo",
+    "name": "Observatorio Ambiental (Ejemplo)",
+    "status": "planned",
+    "actionLineSlug": "conservacion-ambiental-bioeconomia",
+    "summary": "Proyecto futuro de ejemplo. Reemplazar con datos reales.",
+    "description": "Descripción placeholder de un proyecto planificado de monitoreo ambiental.",
+    "objectives": [],
+    "location": {
+      "country": "Ecuador"
+    },
+    "communities": [],
+    "images": [],
+    "results": [],
+    "allies": []
+  }
+]

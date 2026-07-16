@@ -1,0 +1,67 @@
+{
+  "name": "Fundación Nuevo Porvenir",
+  "shortName": "Nuevo Porvenir",
+  "tagline": "Desarrollo comunitario, innovación y oportunidades para territorios rurales e indígenas.",
+  "description": "Fundación Nuevo Porvenir trabaja en desarrollo comunitario, innovación, educación, tecnología, investigación aplicada y generación de oportunidades para comunidades, especialmente en territorios rurales e indígenas.",
+  "history": {
+    "summary": "Contenido en preparación. Aquí se incorporará la historia institucional de la Fundación: su origen, propósito y trayectoria de trabajo junto a las comunidades.",
+    "milestones": [
+      {
+        "year": "20XX",
+        "title": "Fundación de la organización",
+        "description": "Placeholder: hito fundacional. Reemplazar con el evento real."
+      },
+      {
+        "year": "20XX",
+        "title": "Primeros proyectos territoriales",
+        "description": "Placeholder: primeras intervenciones en territorio."
+      }
+    ]
+  },
+  "mission": "Impulsar el desarrollo integral de comunidades rurales e indígenas mediante innovación, educación, tecnología e investigación aplicada, generando oportunidades sostenibles y respetando los conocimientos ancestrales.",
+  "vision": "Ser una plataforma institucional de referencia en desarrollo territorial, intercultural y sostenible, articulando cooperación, ciencia y comunidad para construir un nuevo porvenir.",
+  "values": [
+    {
+      "id": "interculturalidad",
+      "title": "Interculturalidad",
+      "description": "Respeto y diálogo con los saberes ancestrales y las culturas de cada territorio.",
+      "icon": "people"
+    },
+    {
+      "id": "sostenibilidad",
+      "title": "Sostenibilidad",
+      "description": "Compromiso con el equilibrio ambiental, social y económico de largo plazo.",
+      "icon": "leaf"
+    },
+    {
+      "id": "innovacion",
+      "title": "Innovación",
+      "description": "Tecnología e investigación aplicada al servicio de las comunidades.",
+      "icon": "lightbulb"
+    },
+    {
+      "id": "transparencia",
+      "title": "Transparencia",
+      "description": "Gestión abierta, ética y rendición de cuentas a la sociedad.",
+      "icon": "shield"
+    }
+  ],
+  "team": [
+    {
+      "id": "equipo-placeholder-1",
+      "name": "Nombre del integrante",
+      "role": "Cargo institucional",
+      "bio": "Placeholder de biografía. Reemplazar con la información real del equipo."
+    }
+  ],
+  "transparency": {
+    "statement": "Fundación Nuevo Porvenir rinde cuentas de su gestión de forma abierta. En esta sección se publicarán estatutos, memorias anuales, informes financieros y documentos institucionales.",
+    "documents": []
+  },
+  "contact": {
+    "email": "contacto@nuevoporvenir.org",
+    "phone": "",
+    "address": "",
+    "social": []
+  }
+}

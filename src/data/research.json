@@ -1,0 +1,45 @@
+{
+  "centers": [
+    {
+      "id": "centro-innovacion-territorial",
+      "slug": "centro-innovacion-territorial",
+      "name": "Centro de Innovación Territorial",
+      "type": "center",
+      "owned": true,
+      "summary": "Espacio de innovación aplicada al desarrollo de los territorios.",
+      "description": "Placeholder. Reemplazar con la descripción real del centro.",
+      "focusAreas": ["Innovación social", "Desarrollo territorial"]
+    },
+    {
+      "id": "observatorio-energias-renovables",
+      "slug": "observatorio-energias-renovables",
+      "name": "Observatorio de Energías Renovables",
+      "type": "observatory",
+      "owned": true,
+      "summary": "Monitoreo y análisis del avance de las energías renovables en la región.",
+      "description": "Placeholder. Reemplazar con la descripción real del observatorio.",
+      "focusAreas": ["Energías renovables", "Transición energética"]
+    },
+    {
+      "id": "centro-amazonico-monitoreo-ambiental",
+      "slug": "centro-amazonico-monitoreo-ambiental",
+      "name": "Centro Amazónico de Monitoreo Ambiental",
+      "type": "center",
+      "owned": true,
+      "summary": "Seguimiento de la biodiversidad y la salud de los ecosistemas amazónicos.",
+      "description": "Placeholder. Reemplazar con la descripción real del centro.",
+      "focusAreas": ["Biodiversidad", "Monitoreo ambiental"]
+    },
+    {
+      "id": "laboratorios-innovacion-social",
+      "slug": "laboratorios-innovacion-social-tecnologica",
+      "name": "Laboratorios de Innovación Social y Tecnológica",
+      "type": "lab",
+      "owned": true,
+      "summary": "Laboratorios de experimentación en innovación social y tecnológica.",
+      "description": "Placeholder. Reemplazar con la descripción real de los laboratorios.",
+      "focusAreas": ["Innovación social", "Tecnología"]
+    }
+  ],
+  "publications": []
+}
